@@ -1,2 +1,2 @@
-# SimpleCustomDisc
-Spigot plugin which adds disc and music you uploaded to Minecraft.
+# SimpleCustomDiscs
+Spigot plugin which adds discs and music you uploaded to Minecraft.
