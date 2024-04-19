@@ -1,0 +1,7 @@
+name: SimpleCustomDiscs
+version: 0.1.0
+main: me.trivisa-itihasa.scd.SimpleCustomDiscs
+description: A simple plugin that adds custom music discs to Minecraft.
+author: trivisa-itihasa
+website: https://github.com/trivisa-itihasa
+api-version: '1.20'
