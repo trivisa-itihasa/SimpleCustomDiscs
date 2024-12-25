@@ -1,2 +1,2 @@
 # SimpleCustomDiscs
-Spigot plugin which adds discs and music you uploaded to server.
+Spigot plugin that allows to you to upload music to Minecraft server and listen to it in-game with disc.
